@@ -1,2 +1,1 @@
-# myways 
- weather app
+# Suitable AI Take Home Tests
