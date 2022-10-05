@@ -12,9 +12,9 @@ Requirements
 Solution should be responsive and similar (only similar, NOT same, you are free to tweak the design and layout) to this:
 
 
-![Screenshot (968)](https://user-images.githubusercontent.com/74403049/194179251-2b32c67f-59be-4fbe-80e6-a2e947c31c22.png)
-![Screenshot (969)](https://user-images.githubusercontent.com/74403049/194179287-f385dad8-bb44-4d25-9970-6ee3cb4de2b3.png)
-![Screenshot (970)](https://user-images.githubusercontent.com/74403049/194179301-917b2d46-48a7-445b-8805-c0b62c77ae61.png)
+![Screenshot (971)](https://user-images.githubusercontent.com/74403049/194179830-cca96286-d56a-417d-8775-b986b2cebe57.png)
+![Screenshot (972)](https://user-images.githubusercontent.com/74403049/194179852-51f51bb2-a9c9-4c4d-8e77-7162d92013e7.png)
+![Screenshot (973)](https://user-images.githubusercontent.com/74403049/194179857-42af89fb-cfde-4294-afd6-53ffa12d151f.png)
 
 Show the "current" conditions for New York:
 Location (ie. New York, NY, USA)
